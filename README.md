@@ -1,2 +1,2 @@
 # Dasmodo
-codecademy HTML/CSS project
+HTML/CSS project
